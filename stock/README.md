@@ -1,0 +1,1 @@
+This is a simple API REST implementation using gorilla/mux with almost all REST verbs and no db
